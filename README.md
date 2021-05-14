@@ -2,13 +2,13 @@
 
 ## Goal
 
-This repository is a result of final term project held in 2021-1 SNU bioinfo 1 class. The goal of this term project is to practice RNA-seq, Ribo-seq, and CLIP-seq analysis.
+This repository is a result of final term project executed in 2021-1 SNU bioinfo 1 class. The goal of this term project is to practice RNA-seq, Ribo-seq, and CLIP-seq analysis.
 
 
 ## Missions
 + Mission 1
     + Draw a scatter plot which shows correlation between ribosome density change upon _Lin28a_ knockdown and LIN28A CLIP enrichment.
-    + Show protein localizations with different colors.
+    + Show protein localizations on the scatter plot with different colors.
     
 + Mission 2
 
